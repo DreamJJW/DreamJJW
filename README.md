@@ -1,5 +1,6 @@
 DreamJJW의 Github에 어서오세요
 
+
 <!--
 **DreamJJW/DreamJJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Community
+
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+
 
 Platforms & Languages
 
