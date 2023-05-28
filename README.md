@@ -34,4 +34,4 @@ Please have a look!!
 <br>
 <br>
   
-![DreamJJW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamJJW&show_icons=true&theme=transparent)
+![DreamJJW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamJJW&show_icons=true&theme=default)
