@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Community
 
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/>
 
 
 Platforms & Languages
