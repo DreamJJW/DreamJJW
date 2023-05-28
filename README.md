@@ -36,5 +36,5 @@ Please have a look!!
   
 ![DreamJJW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamJJW&show_icons=true&theme=default&title_color=2f80ed&icon_color=000000)
  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamJJW)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamJJ)](https://github.com/anuraghazra/github-readme-stats)
  
