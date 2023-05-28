@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 Community
 
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 Platforms & Languages
 
