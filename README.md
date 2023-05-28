@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=DreamJJW's%20GitHub&fontSize=35)
----
+<img src="github-mark.png" width="200" height="200"/>
+
+# Welcome to DreamJJW's GitHub
+
 
 ### Hi there!
 
