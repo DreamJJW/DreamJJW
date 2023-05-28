@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=DreamJJW's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=DreamJJW's%20GitHub&fontSize=35)
 ---
 
 ### Hi there!
